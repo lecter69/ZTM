@@ -12,6 +12,17 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
 
 <hr/>
 
+    Ustalenia na następne zajęcia xx.02.12:
+    
+    plany - układanie planu:
+    - zapisywanie do bazy
+    - wyświetlanie wszystkich planów
+    - wyświetlanie pojednczego planu
+    
+<hr/>
+
+<hr/>
+
     Ustalenia na następne zajęcia 20.01.12:
     
     plany - układanie planu - prototyp (widok):
