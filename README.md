@@ -27,7 +27,6 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     
     plany - układanie planu - prototyp (widok):
     - tabela tygodniowa
-    - tabela z gotowymi ćwiczeniami
     - przeciąganie i układanie planu
     
 <hr/>
