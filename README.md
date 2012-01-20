@@ -1,7 +1,7 @@
 <h1>Autorzy:</h1>
 
-Jakub Martin
-Andrzej Rapita
+Jakub Martin,
+Andrzej Rapita,
 Piotr Rybsztad
 
 <h1>Temat :Siłownia</h1>
