@@ -18,6 +18,7 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     - zapisywanie do bazy
     - wyświetlanie wszystkich planów
     - wyświetlanie pojednczego planu
+    - pomysł na kategoryzowanie cwiczen
     
 <hr/>
 
