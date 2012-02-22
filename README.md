@@ -10,6 +10,20 @@ ZTM jest serwisem związanym ze sportami siłowymi. Zawiera ciekawe informacje o
 
 Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, początkujących, a także dla chętnych podjęcia treningu.
 
+
+<hr/>
+
+    Ustalenia na następne zajęcia 29.02.12:
+    
+    - Opis ćwiczeń w układaniu planu.
+        opis
+        zdjęcia/film
+    - Panel administracyjny do zarządzania bazą danych.
+        pełen crud dla bazy dancyh
+    - test stopnia zaawansowania użytkownika (przemyslec)  
+<hr/>
+
+
 <hr/>
 
     Ustalenia na następne zajęcia 22.02.12:
