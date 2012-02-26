@@ -15,11 +15,12 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
 
     Ustalenia na następne zajęcia 29.02.12:
     
-    - Opis ćwiczeń w układaniu planu.
+    - Opis ćwiczeń // Rybsztad, Rapita
         opis
         zdjęcia/film
-    - Panel administracyjny do zarządzania bazą danych.
+    - Panel administracyjny do zarządzania bazą danych. // Martin
         pełen crud dla bazy dancyh
+    - Show dla ćwiczeń // Martin
     - test stopnia zaawansowania użytkownika (przemyslec)  
 <hr/>
 
