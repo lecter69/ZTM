@@ -15,10 +15,10 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
 
     Ustalenia na następne zajęcia xx.03.12:
     
-    - atlas ćwiczeń (po kategoriach - partiach mięśni) - dostępny dla wszystkiego
-    - crud dodawanie artykułów dla osób uprawnionych (autor,moderator,admin)
-    - widok moich planów (normal+jw) 
-    - przykładowe plany - widok
+    - atlas ćwiczeń (po kategoriach - partiach mięśni) - dostępny dla wszystkiego # martin
+    - crud dodawanie artykułów dla osób uprawnionych (autor,moderator,admin) # rapita
+    - widok moich planów (normal+jw) # peter
+    - przykładowe plany - widok # peter
      
 <hr/>
 
