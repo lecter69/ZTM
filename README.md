@@ -13,7 +13,7 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
 
 <hr/>
 
-    Ustalenia na następne zajęcia 29.02.12:
+    Ustalenia na następne zajęcia 07.03.12:
     
     - Opis ćwiczeń // Rybsztad, Rapita
         opis
