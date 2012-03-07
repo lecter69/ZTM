@@ -21,7 +21,7 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     - Panel administracyjny do zarządzania bazą danych. // Martin
         pełen crud dla bazy dancyh
     - Show dla ćwiczeń // Martin
-    - test stopnia zaawansowania użytkownika (przemyslec)  
+     
 <hr/>
 
 
