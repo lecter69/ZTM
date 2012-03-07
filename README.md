@@ -13,6 +13,17 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
 
 <hr/>
 
+    Ustalenia na następne zajęcia xx.03.12:
+    
+    - atlas ćwiczeń (po kategoriach - partiach mięśni) - dostępny dla wszystkiego
+    - crud dodawanie artykułów dla osób uprawnionych (autor,moderator,admin)
+    - widok moich planów (normal+jw) 
+    - przykładowe plany - widok
+     
+<hr/>
+
+<hr/>
+
     Ustalenia na następne zajęcia 07.03.12:
     
     - Opis ćwiczeń // Rybsztad, Rapita
