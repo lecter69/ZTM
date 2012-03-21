@@ -10,6 +10,24 @@ ZTM jest serwisem związanym ze sportami siłowymi. Zawiera ciekawe informacje o
 
 Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, początkujących, a także dla chętnych podjęcia treningu.
 
+<hr/>
+
+    Ustalenia na następne zajęcia 28.03.12:
+    
+    TO DO:
+- opracować logike oceny treści (głównie artykułów) spęłniająca natępujące warunki
+        - proces odbywa sie mozliwie automatycznie bez ciągłej uwagi moderatora
+        - jedna osoba (użytkownik) nie może zablokować treści wytworzonej przez autora
+        - ocena powinna być przypisana do danego artykułu nie do użytkownika
+    - możliwe rozwiązanie: każdy czyterlnik artykułu może nadać mu ocenę (początkowo +-1) gdy sumaryczna ocena artykułu zejdzie poniżej limitu akceptowalności, artykuł nie jest udostępniany. średnia ocena artykułów danego autora jest każdorazowo wyświetlana przy jego nazwisku, we wszystkich stworzonych przez niego tresciach, uzytkownik może ocenić nie więcej niż N artykułów w ciągu doby.
+     
+    
+    - Aspekt Czasu w planie treningowym.
+     
+<hr/>
+
+
+
 
 <hr/>
 
@@ -19,6 +37,8 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     - crud dodawanie artykułów dla osób uprawnionych (autor,moderator,admin) # rapita
     - widok moich planów (normal+jw) # peter
     - przykładowe plany - widok # peter
+    
+    - 
      
 <hr/>
 
