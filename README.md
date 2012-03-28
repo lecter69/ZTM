@@ -10,6 +10,12 @@ ZTM jest serwisem związanym ze sportami siłowymi. Zawiera ciekawe informacje o
 
 Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, początkujących, a także dla chętnych podjęcia treningu.
 
+<hr>
+    TODO:
+    - dodać do bazy dużo produktórów pod diete
+    - dodać listing wszystkich produktów + wyszukiwarka (może nie teraz - potem) - taki atlas produktów
+</hr>
+
 <hr/>
 
     Ustalenia na następne zajęcia 28.03.12:
