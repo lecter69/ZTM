@@ -11,9 +11,12 @@ ZTM jest serwisem związanym ze sportami siłowymi. Zawiera ciekawe informacje o
 Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, początkujących, a także dla chętnych podjęcia treningu.
 
 <hr>
-    TODO:
-    - dodać do bazy dużo produktórów pod diete
-    - dodać listing wszystkich produktów + wyszukiwarka (może nie teraz - potem) - taki atlas produktów
+    TODO (11.04.12):
+    
+    Martin: 
+    - zakładka "Produkty żywnościowe" - na podobnej zasadzie co atlas ćwiczeń; użytkownik z listy wybiera produkt, otrzymuje info o jego wartościach odżywczych itp. Produkty są podzielone na kategorie, co ułatwia wyszukiwanie, dodatkowo można skorzystać z wyszukiwarki. Produktu potrzebne są do nastpnego elemntu, jakim jest układanie diety.
+    - CRUD dla powyższego dla uprawnionych osób
+    
 </hr>
 
 <hr/>
