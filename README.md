@@ -20,20 +20,21 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
    
 </hr>
 
-<hr> Do zrobienia niekoniecznie na teraz, ale do końca projektu:
-
-Rybsztad / Rapita (sami zdecydujcie co chcecie z tego zrobić):
-- dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
-- gotowe przykładowe plany (cokolwiek, nawet nie musicie szczegółowo czytać jakichś artykułów, ale żeby nie były bezsensowne)
-- gotowe przykłądowe diety (jw, ale dopiero jak diety zrobie)
-- skołujecie z google grafiki (potem powiem co potrzeba)
-- tytuł strony - logo - wymyśleć i dać mi png
-
-Rapita:
-- w 100% zrobić i18n jak wszystko bedzie zrobione, tylko pl
+<hr> 
+    Do zrobienia niekoniecznie na teraz, ale do końca projektu:
     
-Rapita:
-- dodać produkty żywnościowe do bazy...
+    Rybsztad / Rapita (sami zdecydujcie co chcecie z tego zrobić):
+    - dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
+    - gotowe przykładowe plany (cokolwiek, nawet nie musicie szczegółowo czytać jakichś artykułów, ale żeby nie były bezsensowne)
+    - gotowe przykłądowe diety (jw, ale dopiero jak diety zrobie)
+    - skołujecie z google grafiki (potem powiem co potrzeba)
+    - tytuł strony - logo - wymyśleć i dać mi png
+    
+    Rapita:
+    - w 100% zrobić i18n jak wszystko bedzie zrobione, tylko pl
+        
+    Rapita:
+    - dodać produkty żywnościowe do bazy...
 
 </hr>
 
