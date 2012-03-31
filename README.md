@@ -17,11 +17,21 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     - zakładka "Produkty żywnościowe" - na podobnej zasadzie co atlas ćwiczeń; użytkownik z listy wybiera produkt, otrzymuje info o jego wartościach odżywczych itp. Produkty są podzielone na kategorie, co ułatwia wyszukiwanie, dodatkowo można skorzystać z wyszukiwarki. Produktu potrzebne są do nastpnego elemntu, jakim jest układanie diety.
     - CRUD dla powyższego dla uprawnionych osób
     
-    Rybsztad / Rapita (sami zdecydujcie co chcecie z tego zrobić), niekoniecznie na teraz, ale do końca projektu:
-    - dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
-    - gotowe przykładowe plany (cokolwiek, nawet nie musicie szczegółowo czytać jakichś artykułów, ale żeby nie były bezsensowne)
-    - w 100% zrobić i18n jak wszystko bedzie zrobione
+   
+</hr>
+
+<hr> Do zrobienia niekoniecznie na teraz, ale do końca projektu:
+
+Rybsztad / Rapita (sami zdecydujcie co chcecie z tego zrobić):
+- dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
+- gotowe przykładowe plany (cokolwiek, nawet nie musicie szczegółowo czytać jakichś artykułów, ale żeby nie były bezsensowne)
+
+Rapita:
+- w 100% zrobić i18n jak wszystko bedzie zrobione, tylko pl
     
+Rapita:
+- dodać produkty żywnościowe do bazy...
+
 </hr>
 
 <hr/>
