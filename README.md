@@ -17,6 +17,8 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     - zakładka "Produkty żywnościowe" - na podobnej zasadzie co atlas ćwiczeń; użytkownik z listy wybiera produkt, otrzymuje info o jego wartościach odżywczych itp. Produkty są podzielone na kategorie, co ułatwia wyszukiwanie, dodatkowo można skorzystać z wyszukiwarki. Produktu potrzebne są do nastpnego elemntu, jakim jest układanie diety.
     - CRUD dla powyższego dla uprawnionych osób
     
+    Rapita, Rybsztad: wybierzcie sobie coś z poniższej listy, albo coś sami wymyślcie co chcecie zrobic, podajcie mi i napisze maila do prowadzacego.
+    
    
 </hr>
 
