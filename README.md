@@ -17,7 +17,12 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     - zakładka "Produkty żywnościowe" - na podobnej zasadzie co atlas ćwiczeń; użytkownik z listy wybiera produkt, otrzymuje info o jego wartościach odżywczych itp. Produkty są podzielone na kategorie, co ułatwia wyszukiwanie, dodatkowo można skorzystać z wyszukiwarki. Produktu potrzebne są do nastpnego elemntu, jakim jest układanie diety.
     - CRUD dla powyższego dla uprawnionych osób
     
-    Rapita, Rybsztad: wybierzcie sobie coś z poniższej listy, albo coś sami wymyślcie co chcecie zrobic, podajcie mi i napisze maila do prowadzacego.
+    Rybsztad:
+    - gotowe przykładowe plany (cokolwiek, nawet nie musicie szczegółowo czytać jakichś artykułów, ale żeby nie były bezsensowne)
+    - dodać produkty żywnościowe do bazy
+    - dodać reszt ćwiczeń do bazy
+    
+    // Rapita, Rybsztad: wybierzcie sobie coś z poniższej listy, albo coś sami wymyślcie co chcecie zrobic, podajcie mi i napisze maila do prowadzacego.
     
    
 </hr>
@@ -27,16 +32,13 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     
     Rybsztad / Rapita (sami zdecydujcie co chcecie z tego zrobić):
     - dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
-    - gotowe przykładowe plany (cokolwiek, nawet nie musicie szczegółowo czytać jakichś artykułów, ale żeby nie były bezsensowne)
     - gotowe przykłądowe diety (jw, ale dopiero jak diety zrobie)
     - skołujecie z google grafiki (potem powiem co potrzeba)
     - tytuł strony - logo - wymyśleć i dać mi png
     
     Rapita:
     - w 100% zrobić i18n jak wszystko bedzie zrobione, tylko pl
-        
-    Rybsztad:
-    - dodać produkty żywnościowe do bazy...
+           
 
 </hr>
 
