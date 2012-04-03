@@ -35,7 +35,7 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     Rapita:
     - w 100% zrobić i18n jak wszystko bedzie zrobione, tylko pl
         
-    Rapita:
+    Rybsztad:
     - dodać produkty żywnościowe do bazy...
 
 </hr>
