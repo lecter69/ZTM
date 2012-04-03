@@ -20,9 +20,10 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     Rybsztad:
     - gotowe przykładowe plany (cokolwiek, nawet nie musicie szczegółowo czytać jakichś artykułów, ale żeby nie były bezsensowne)
     - dodać produkty żywnościowe do bazy
-    - dodać reszt ćwiczeń do bazy
+    - dodać reszte ćwiczeń do bazy
     
-    // Rapita, Rybsztad: wybierzcie sobie coś z poniższej listy, albo coś sami wymyślcie co chcecie zrobic, podajcie mi i napisze maila do prowadzacego.
+    Rapita:
+    - dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
     
    
 </hr>
@@ -30,8 +31,7 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
 <hr> 
     Do zrobienia niekoniecznie na teraz, ale do końca projektu:
     
-    Rybsztad / Rapita (sami zdecydujcie co chcecie z tego zrobić):
-    - dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
+    Rybsztad / Rapita (sami zdecydujcie co chcecie z tego zrobić):    
     - gotowe przykłądowe diety (jw, ale dopiero jak diety zrobie)
     - skołujecie z google grafiki (potem powiem co potrzeba)
     - tytuł strony - logo - wymyśleć i dać mi png
