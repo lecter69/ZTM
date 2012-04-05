@@ -18,14 +18,13 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     - CRUD dla powyższego dla uprawnionych osób
     
     Rybsztad:
-    - gotowe przykładowe plany (cokolwiek, nawet nie musicie szczegółowo czytać jakichś artykułów, ale żeby nie były bezsensowne)
-    - dodać produkty żywnościowe do bazy
-    - dodać reszte ćwiczeń do bazy
+    - gotowe przykładowe plany treningowe, wyświetlane dla wszystkich
+    - dodać produkty żywnościowe do bazy danych
+    - dodać brakujące ćwiczenia do bazy
     
     Rapita:
     - dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
-    
-   
+       
 </hr>
 
 <hr> 
