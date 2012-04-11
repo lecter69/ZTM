@@ -33,6 +33,7 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     - gotowe przykłądowe diety (jw, ale dopiero jak diety zrobie)
     - skołujecie z google grafiki (potem powiem co potrzeba)
     - tytuł strony - logo - wymyśleć i dać mi png
+    - dodać resztę planów
     
     Rapita:
     - w 100% zrobić i18n jak wszystko bedzie zrobione, tylko pl
