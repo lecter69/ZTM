@@ -20,7 +20,6 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     Rybsztad:
     - gotowe przykładowe plany treningowe, wyświetlane dla wszystkich
     - dodać produkty żywnościowe do bazy danych
-    - dodać brakujące ćwiczenia do bazy
     
     Rapita:
     - dodanie do każdego produktu w kolumnie jednostka: gramy / mililitry itd (mają to być wartości z innej tabeli)
