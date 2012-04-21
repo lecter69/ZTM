@@ -11,20 +11,21 @@ ZTM jest serwisem związanym ze sportami siłowymi. Zawiera ciekawe informacje o
 Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, początkujących, a także dla chętnych podjęcia treningu.
 
 <hr>
-TODO 25.04.12
-
-Martin: - dokończenie diet o wyliczanie konrtnych wartosci (kalorie,białko itp) na podstawie dodanych posiłków
+        TODO 25.04.12
+        
+        Martin: 
+        - dokończenie diet o wyliczanie konrtnych wartosci (kalorie,białko itp) na podstawie dodanych posiłków
         - dokończenie layoutu do diet i produktów
         - (?) sprawdzic czy mozna wybrac aktualnie wykonywany plan
         - w planach ćwiczeń dla danego usera oszacować dodatkowe zapotrzebowanie energentyczne (potrzebne do diet - aktywnosc fizyczna)
-
-Rybsztad:
-        - znalezienie tabel produktów (z witaminami i minerałami - jeżeli tab jest w ang przetłumaczenie via google na pl)
         
-Rapita:
+        Rybsztad:
+         - znalezienie tabel produktów (z witaminami i minerałami - jeżeli tab jest w ang przetłumaczenie via google na pl)
+                
+        Rapita:
         - testowanie (przewidzieć działania usera - i opisiać je)
-
 </hr>
+
 TODO 18.04.12
 
 Martin:
