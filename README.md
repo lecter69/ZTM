@@ -14,7 +14,7 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
 
  TODO 25.04.12
         
-  Martin: 
+   Martin: 
         - dokończenie diet o wyliczanie konrtnych wartosci (kalorie,białko itp) na podstawie dodanych posiłków
         - dokończenie layoutu do diet i produktów
         - (?) sprawdzic czy mozna wybrac aktualnie wykonywany plan
