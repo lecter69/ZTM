@@ -10,6 +10,22 @@ ZTM jest serwisem związanym ze sportami siłowymi. Zawiera ciekawe informacje o
 
 Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, początkujących, a także dla chętnych podjęcia treningu.
 
+
+<hr>
+    TODO xx.05.12
+        
+    Martin:
+    - przy tworzeniu planu do ćwiczeń dodać możliwość podania obciążenia (pamietac, ze nie do wszystkich!, np. brzuszki)
+    - kilka paneli CRUDów dla osób uprawnionych (edycja użytkowników, produktów, ćwiczeń itd.)
+    - użytkownik bedzie mial mozliwosc zgloszenia swojego planu do listy publicznych planow
+    - możliwosc komentowania oraz oceniania artykulow, planów, diet
+    - system wiadomości do akceptowania dodanych tresci
+    
+    Rapita:
+    - 
+
+</hr>
+
 <hr>
     TODO 25.04.12
         
