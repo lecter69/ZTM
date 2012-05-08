@@ -15,14 +15,12 @@ Serwis przeznaczony jest dla osób aktywnych, uprawiających sporty siłowe, poc
     TODO xx.05.12
         
     Martin:
-    - przy tworzeniu planu do ćwiczeń dodać możliwość podania obciążenia (pamietac, ze nie do wszystkich!, np. brzuszki)
+    - przy tworzeniu planu do ćwiczeń dodać możliwość podania obciążenia (pamietac, ze nie do wszystkich!, np. brzuszki) - to bedzie chyba opcjonalne, bo nie ogarniam wyliczania potrzebnych kalorii na podstawie ćwiczeń, nigdzie nie ma o tym żadnych danych :|
     - kilka paneli CRUDów dla osób uprawnionych (edycja użytkowników, produktów, ćwiczeń itd.)
-    - użytkownik bedzie mial mozliwosc zgloszenia swojego planu do listy publicznych planow
-    - możliwosc komentowania oraz oceniania artykulow, planów, diet
-    - system wiadomości do akceptowania dodanych tresci
+    - o ile żadnych nowych wiekszych funkcjonalnosci nie bedzie to layout na fest zrobić
     
-    Rapita:
-    - 
+    - trzeba ustalić, czy userzy mają dodawac swoje diety i plany do publicznej listy - jesli nie, to wtedy tylko uprawnione osoby beda dodawac
+    - w sytuacji, kiedy nie dodaja, oceny i komentarze nie maja duzego sensu (chyba ze własne komentarze do swoich planów i diet)
 
 </hr>
 
